@@ -1,0 +1,6 @@
+Software Testing,CSE337s,100
+Ali Mohamed,1900050s,10,10,20,21
+Ibrahim Hassan,19000444,0,0,15,30
+Kareem Gamal,12300456,10,0,10,60
+Eman Hussien,1234567H,10,10,20,35
+Waleed Hamdy,1100113e,5,5,20,60

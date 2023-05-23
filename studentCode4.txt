@@ -1,0 +1,12 @@
+Software Testing,CSE337s,100
+Ahmed Mohamed,19012005,10,10,20,60
+Aaron Schroeder,1x345678,9,10,18,40
+Wilfred Robbins,10000001,10,9,19,49
+Andy Conner,10000002,10,10,12,50
+Lilly Spence,10000003,9,9,17,60
+Leah Stone,10000004,8,8,15,52
+Raja Bowers,10000005,5,7,14,10
+Emmy Williams,10000006,6,4,20,55
+Taylor Wilson,10000007,7,5,20,20
+Cain Velazquez,10000008,8,6,10,10
+Bill Abbott,10000009,9,10,12,3

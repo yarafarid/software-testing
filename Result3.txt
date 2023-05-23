@@ -1,0 +1,6 @@
+Software Testing,CSE337s,100
+Aliaa Mohamed,1902050s,5,0,0,60
+Medhat Hassan,19030444,10,10,20,55
+Ismail Gamal,12311456,3,1,20,60
+Nada Hussien,9234567w,4,0,5,60
+Osama Mahmoud,10001135,5,5,2,60

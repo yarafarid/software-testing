@@ -1,0 +1,2 @@
+Software Testing,CSE337s,100
+Osama A#li,19000000,10,10,20,60
